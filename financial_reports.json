@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Q1 2025 Earnings Report - Apple Inc.",
+    "publication_date": "2025-04-30",
+    "author": "Jane Doe",
+    "category": "Earnings",
+    "summary": "Apple reported record Q1 2025 earnings driven by strong iPhone 16 sales and growth in its services division.",
+    "key_statistics": {
+      "revenue": "120.1B",
+      "net_income": "28.5B",
+      "eps": "1.75",
+      "year_over_year_growth": "12%"
+    },
+    "sentiment_score": 0.85
+  },
+  {
+    "title": "Federal Reserve Interest Rate Decision",
+    "publication_date": "2025-03-20",
+    "author": "John Smith",
+    "category": "Macroeconomics",
+    "summary": "The Federal Reserve decided to maintain interest rates unchanged at 5.25%, citing stable inflation and moderate economic growth.",
+    "key_statistics": {
+      "interest_rate": "5.25%",
+      "inflation_rate": "2.6%",
+      "gdp_growth": "2.1%"
+    },
+    "sentiment_score": 0.15
+  },
+  {
+    "title": "Tesla Expands Production in Europe",
+    "publication_date": "2025-02-10",
+    "author": "Emily Johnson",
+    "category": "Corporate Strategy",
+    "summary": "Tesla announced the opening of a new gigafactory in Spain to meet growing demand for EVs in Europe.",
+    "key_statistics": {
+      "new_factory_capacity": "500,000 vehicles/year",
+      "expected_investment": "4.2B",
+      "market_share_increase": "3%"
+    },
+    "sentiment_score": 0.72
+  },
+  {
+    "title": "Amazon Launches AI-Powered Logistics Platform",
+    "publication_date": "2025-05-15",
+    "author": "Michael Lee",
+    "category": "Technology",
+    "summary": "Amazon unveiled a new AI-driven logistics system designed to optimize last-mile delivery and reduce costs.",
+    "key_statistics": {
+      "expected_cost_savings": "2.5B annually",
+      "delivery_time_reduction": "15%",
+      "pilot_cities": 12
+    },
+    "sentiment_score": 0.9
+  },
+  {
+    "title": "Gold Prices Hit Record High Amid Global Uncertainty",
+    "publication_date": "2025-06-01",
+    "author": "Sophia Martinez",
+    "category": "Commodities",
+    "summary": "Gold prices surged to an all-time high as investors sought safe-haven assets amid geopolitical tensions.",
+    "key_statistics": {
+      "gold_price": "2,450 USD/oz",
+      "year_to_date_increase": "18%",
+      "global_demand_increase": "9%"
+    },
+    "sentiment_score": 0.4
+  },
+  {
+    "title": "Microsoft Acquires Cybersecurity Startup",
+    "publication_date": "2025-07-12",
+    "author": "David Chen",
+    "category": "Mergers & Acquisitions",
+    "summary": "Microsoft announced the acquisition of SecureNet, a cybersecurity startup specializing in AI threat detection.",
+    "key_statistics": {
+      "acquisition_value": "1.8B",
+      "employees_acquired": 300,
+      "cybersecurity_market_growth": "11%"
+    },
+    "sentiment_score": 0.78
+  },
+  {
+    "title": "China Reports Slower GDP Growth",
+    "publication_date": "2025-08-20",
+    "author": "Li Wei",
+    "category": "Macroeconomics",
+    "summary": "China's Q2 GDP growth slowed to 4.8% as exports weakened and domestic consumption showed signs of slowing.",
+    "key_statistics": {
+      "gdp_growth": "4.8%",
+      "export_decline": "6%",
+      "retail_sales_growth": "2.1%"
+    },
+    "sentiment_score": -0.2
+  },
+  {
+      "reportId": "FR001",
+      "title": "Quarterly Global Forex Report - January 2024",
+      "author": "Maria Trade",
+      "publication_date": "2024-01-27",
+      "category": "Global Forex",
+      "summary": "Detailed analysis of global forex trends and market indicators for January 2024, focusing on key developments and future outlook.",
+      "key_statistics": [
+          "Forex Volatility: 7.3%",
+          "USD/JPY: 147.1",
+          "GBP/USD: 1.210",
+          "EUR/USD: 1.140"
+      ],
+      "sentiment_score": 0.76
+  },
+  {
+      "reportId": "FR002",
+      "title": "Special Global Forex Overview - December 2023",
+      "author": "David Exchange",
+      "publication_date": "2023-12-13",
+      "category": "Global Forex",
+      "summary": "Detailed analysis of global forex trends and market indicators for December 2023, focusing on key developments and future outlook.",
+      "key_statistics": [
+          "GBP/USD: 1.281",
+          "EUR/USD: 1.188",
+          "USD/JPY: 126.0",
+          "Forex Volatility: 9.6%"
+      ],
+      "sentiment_score": 0.89
+  }
+]
